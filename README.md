@@ -4,7 +4,7 @@
 I am passionate about **machine learning, data analysis, and financial systems**.  
 In my free time I enjoy exploring real-world datasets and building small projects to better understand how models behave in practice.</br>
 I have created a **portfolio** which includes the projects that i have spent time on learning these concepts.
-Check it out 😃 : 
+Check it out 😃 : https://github.com/lefterisss/portfolio
 </br></br>
 </br>My focus is on **learning by doing**: experimenting with algorithms and improving my understanding of data-driven decision making.
 
