@@ -4,8 +4,9 @@
 I am passionate about **machine learning, data analysis, and financial systems**.  
 In my free time I enjoy exploring real-world datasets and building small projects to better understand how models behave in practice.</br>
 I have created a **portfolio** which includes the projects that i have spent time on learning these concepts.
-
-My focus is on **learning by doing**: experimenting with algorithms and improving my understanding of data-driven decision making.
+Check it out 😃 : 
+</br></br>
+</br>My focus is on **learning by doing**: experimenting with algorithms and improving my understanding of data-driven decision making.
 
 
 ## 🔍 Current Interests
@@ -62,8 +63,7 @@ Key aspects:
 
 ## 📫 Connect
 
-- LinkedIn: [your linkedin link]
-- GitHub: [your github]
+- LinkedIn: https://www.linkedin.com/in/lefteris-chatziioakeim-409b1a302/
 
 Always happy to discuss machine learning ideas or interesting datasets.
 <!--
