@@ -59,6 +59,9 @@ Key aspects:
 - Matplotlib / Seaborn
 - Jupyter / Kaggle
 
+### Past Experience
+- Worked with HTML/CSS and Java (backend) to support small development tasks in my previous role.
+
 ---
 
 ## 📫 Connect
