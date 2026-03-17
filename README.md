@@ -27,7 +27,7 @@ I like taking real datasets and asking questions such as:
 - How does extreme class imbalance affect model performance?
 - What is the difference between **ranking metrics (AUC)** and **threshold metrics (precision/recall)**?
 
-Many of my projects are experiments exploring these questions.
+One of my projects are experiments exploring these questions.
 
 
 ## 📊 Selected Projects
